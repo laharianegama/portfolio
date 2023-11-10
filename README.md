@@ -13,14 +13,14 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 ## WORK EXPERIENCE
 ### CAPGEMINI | Senior Software Engineer | INDIA (_October 2022 - August 2023_)
 <p style='text-align: justify;'> - Collaborated with development team to resolve 50+ tickets on management platform to modify and 
-  maintain client websites and improving customer satisfaction by 20%.</p>
-<p style='text-align: justify;'> - Optimized functions for user-friendly interfaces and seamless functionality to enhance the overall user 
+  maintain client websites and improving customer satisfaction by 20%. <br>
+ - Optimized functions for user-friendly interfaces and seamless functionality to enhance the overall user 
   experience, resource management and contributed to a 25% reduction in application load times.</p>
 
 ### CAPGEMINI | SeniorAnalyst Intern | INDIA (_March 2022 - May2022_)
 <p style='text-align: justify;'> - Participated in design discussions and propose solutions that effectively balanced user requirements with 
-technical considerations, resulting in enhanced product functionality.</p>
-<p style='text-align: justify;'> - Worked on Java full-stack applications to deliver robust solutions leveraging cutting-edge frameworks that 
+technical considerations, resulting in enhanced product functionality.<br>
+- Worked on Java full-stack applications to deliver robust solutions leveraging cutting-edge frameworks that 
 streamlined processes and improved user experiences.</p>
 
 ### ACM VNRVJIET Technical Team Member | INDIA (_2018 - 2022_)
@@ -35,15 +35,15 @@ streamlined processes and improved user experiences.</p>
 **Technologies**: Machine Learning, Git, Web Development <br>
 **Framework**: React JS, Spring, Spring Boot 
 
-##PROJECTS
+## PROJECTS
 ### Friend Finder Application:
-[Github] (https://github.com/laharianegama/friendfinder)
+[Github](https://github.com/laharianegama/friendfinder)
 - Developed an online application with Java EE Standardized Development Model.
 - Employed Spring Boot, Rest controller, JPA Hibernate, and Spring Data JPA for robust back-end development, ensuring efficient repository support.
 - Utilized ReactJS for dynamic and interactive front-end design, complemented by PostgreSQL for reliable database management.
 
-### TWITTER SENTIMENTAL ANALYSIS:
-[Github] (https://github.com/laharianegama/Sentimental-Analysis)
+### Twitter Sentimental Analysis:
+[Github](https://github.com/laharianegama/Sentimental-Analysis)
 - Developed a machine learning model to comprehend polarity of sentiment (Negative, Neutral or Positive)  on trending topics, enabling comprehensive public opinion understanding.
 - Implemented a Python bot to use Twitter API client to retrieve and store data from Twitter API for efficient processing and analysis.
 - Employed Natural Language Processing techniques, including tf-idf, along with machine learning algorithms to effectively process the dataset for sentiment 
