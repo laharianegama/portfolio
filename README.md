@@ -28,7 +28,7 @@ streamlined processes and improved user experiences.</p>
  - Fostered a collaborative and growth-oriented environment within the technical team.
  - Contributed to education outreach initiatives, promoting the importance of technology and computer science.
 
-## Technical Skills
+## TECHNICAL SKILLS
 **Languages**: Python, C++, Java, HTML, CSS, JavaScript  <br>
 **IT Concepts**: Data Structures & Algorithms, OOPS <br>
 **Databases**: SQL, Firebase (NoSQL), PostgreSQL <br>
