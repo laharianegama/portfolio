@@ -7,8 +7,8 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 
 
 ## EDUCATION
-<p style='text-align: justify;'> - Master of Science, Computer Science  | **University of Houston** (_August 2023 - Present_)	</p>						       		
-<p style='text-align: justify;'> - Bachelor of Technology, Information Technology	| **VNR Vignana Jyothi Institute of Engineering and Technology** (_2018 - 2022_)</p>
+ - Master of Science, Computer Science  | **University of Houston** (_August 2023 - Present_)			       		
+ - Bachelor of Technology, Information Technology	| **VNR Vignana Jyothi Institute of Engineering and Technology** (_2018 - 2022_)
 
 ## WORK EXPERIENCE
 ### CAPGEMINI | Senior Software Engineer | INDIA (_October 2022 - August 2023_)
@@ -29,11 +29,11 @@ streamlined processes and improved user experiences.</p>
 <p style='text-align: justify;'> - Contributed to education outreach initiatives, promoting the importance of technology and computer science.</p>
 
 ## Technical Skills
-<p style='text-align: justify;'> **Languages**: Python, C++, Java, HTML, CSS, JavaScript </p> 
-<p style='text-align: justify;'> **IT Concepts**: Data Structures & Algorithms, OOPS </p>
-<p style='text-align: justify;'> **Databases**: SQL, Firebase (NoSQL), PostgreSQL </p>
-<p style='text-align: justify;'> **Technologies**: Machine Learning, Git, Web Development </p>
-<p style='text-align: justify;'> **Framework**: React JS, Spring, Spring Boot </p>
+ - **Languages**: Python, C++, Java, HTML, CSS, JavaScript  
+ - **IT Concepts**: Data Structures & Algorithms, OOPS 
+ - **Databases**: SQL, Firebase (NoSQL), PostgreSQL 
+ - **Technologies**: Machine Learning, Git, Web Development 
+ - **Framework**: React JS, Spring, Spring Boot 
 
 
 
