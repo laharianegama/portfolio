@@ -1,6 +1,3 @@
-# portfolio
-ANEGAMA LAHARI
-
 anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-anegama-a9a583192/) | [Github](https://github.com/laharianegama)
 
 ## About Me
