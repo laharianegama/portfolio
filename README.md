@@ -28,6 +28,11 @@ streamlined processes and improved user experiences.</p>
  - Fostered a collaborative and growth-oriented environment within the technical team.
  - Contributed to education outreach initiatives, promoting the importance of technology and computer science.
 
+### INVSIBLE STRING | Volunteer | INDIA (_2022 -present_)
+-Collaborated with the NGO team to develop and implement programs addressing the unique needs of underprivilaged groups.
+-Led workshops and awareness sessions aimed at fostering the importance of education and skill development.
+-Organized events to provide emotional support, educational resources, and mentorship opportunities
+
 ## TECHNICAL SKILLS
 **Languages**: Python, C++, Java, HTML, CSS, JavaScript  <br>
 **IT Concepts**: Data Structures & Algorithms, OOPS <br>
