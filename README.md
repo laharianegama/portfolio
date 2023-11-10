@@ -1,8 +1,9 @@
 anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-anegama-a9a583192/) | [Github](https://github.com/laharianegama)
 
 ## ABOUT ME
-<p style='text-align: justify;'> Hello there!👋 I'm a computer science graduate student from the University of Houston, armed with a Bachelors degree in Information Technology. I love solving problems and writing code. I've spent some quality time as a Senior Software Engineer at Capgemini, where I've navigated the realms of software development with zeal and finesse.  My professional journey spans a diverse spectrum, having served as a software engineer, educational entrepreneur, and dedicated volunteer. This multifaceted background underscores my unwavering dedication and passion for both technology and education.
-Currently on the lookout for exciting opportunities, I'm eager to collaborate with a team where creativity meets functionality. Let's build something awesome together – one line of code at a time! </p>
+<p style='text-align: justify;'> Hello there!👋 I'm a computer science graduate student from the University of Houston, armed with a Bachelors degree in Information Technology. I love solving problems and writing code. I've spent some quality time as a Senior Software Engineer at Capgemini, where I've navigated the realms of software development with zeal and finesse.  My professional journey spans a diverse spectrum, having served as a software engineer, educational entrepreneur, and dedicated volunteer. This multifaceted background underscores my unwavering dedication and passion for both technology and education.</p>
+
+<p style='text-align: justify;'> Currently on the lookout for exciting opportunities, I'm eager to collaborate with a team where creativity meets functionality. Let's build something awesome together – one line of code at a time! </p>
 
 
 ## EDUCATION
