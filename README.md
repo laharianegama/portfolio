@@ -24,16 +24,31 @@ technical considerations, resulting in enhanced product functionality.</p>
 streamlined processes and improved user experiences.</p>
 
 ### ACM VNRVJIET Technical Team Member | INDIA (_2018 - 2022_)
-<p style='text-align: justify;'> - Actively organized events, leadership sessions, and technical workshops through event planning and management.</p>
-<p style='text-align: justify;'> - Fostered a collaborative and growth-oriented environment within the technical team.</p>
-<p style='text-align: justify;'> - Contributed to education outreach initiatives, promoting the importance of technology and computer science.</p>
+ - Actively organized events, leadership sessions, and technical workshops through event planning and management.
+ - Fostered a collaborative and growth-oriented environment within the technical team.
+ - Contributed to education outreach initiatives, promoting the importance of technology and computer science.
 
 ## Technical Skills
- - **Languages**: Python, C++, Java, HTML, CSS, JavaScript  
- - **IT Concepts**: Data Structures & Algorithms, OOPS 
- - **Databases**: SQL, Firebase (NoSQL), PostgreSQL 
- - **Technologies**: Machine Learning, Git, Web Development 
- - **Framework**: React JS, Spring, Spring Boot 
+**Languages**: Python, C++, Java, HTML, CSS, JavaScript  <br>
+**IT Concepts**: Data Structures & Algorithms, OOPS <br>
+**Databases**: SQL, Firebase (NoSQL), PostgreSQL <br>
+**Technologies**: Machine Learning, Git, Web Development <br>
+**Framework**: React JS, Spring, Spring Boot 
+
+##PROJECTS
+### Friend Finder Application:
+[Github] (https://github.com/laharianegama/friendfinder)
+- Developed an online application with Java EE Standardized Development Model.
+- Employed Spring Boot, Rest controller, JPA Hibernate, and Spring Data JPA for robust back-end development, ensuring efficient repository support.
+- Utilized ReactJS for dynamic and interactive front-end design, complemented by PostgreSQL for reliable database management.
+
+### TWITTER SENTIMENTAL ANALYSIS:
+[Github] (https://github.com/laharianegama/Sentimental-Analysis)
+- Developed a machine learning model to comprehend polarity of sentiment (Negative, Neutral or Positive)  on trending topics, enabling comprehensive public opinion understanding.
+- Implemented a Python bot to use Twitter API client to retrieve and store data from Twitter API for efficient processing and analysis.
+- Employed Natural Language Processing techniques, including tf-idf, along with machine learning algorithms to effectively process the dataset for sentiment 
+  analysis.
+
 
 
 
