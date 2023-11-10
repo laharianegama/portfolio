@@ -17,7 +17,7 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
  - Optimized functions for user-friendly interfaces and seamless functionality to enhance the overall user 
   experience, resource management and contributed to a 25% reduction in application load times.</p>
 
-### CAPGEMINI | SeniorAnalyst Intern | INDIA (_March 2022 - May2022_)
+### CAPGEMINI | SeniorAnalyst Intern | INDIA (_March 2022 - May 2022_)
 <p style='text-align: justify;'> - Participated in design discussions and propose solutions that effectively balanced user requirements with 
 technical considerations, resulting in enhanced product functionality.<br>
 - Worked on Java full-stack applications to deliver robust solutions leveraging cutting-edge frameworks that 
@@ -28,7 +28,7 @@ streamlined processes and improved user experiences.</p>
  - Fostered a collaborative and growth-oriented environment within the technical team.
  - Contributed to education outreach initiatives, promoting the importance of technology and computer science.
 
-### INVSIBLE STRING | Volunteer | INDIA (_2022 -present_)
+### INVSIBLE STRING | Volunteer | INDIA (_2022 - present_)
 -Collaborated with the NGO team to develop and implement programs addressing the unique needs of underprivilaged groups.
 -Led workshops and awareness sessions aimed at fostering the importance of education and skill development.
 -Organized events to provide emotional support, educational resources, and mentorship opportunities
