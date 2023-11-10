@@ -12,16 +12,16 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 
 ## WORK EXPERIENCE
 ### CAPGEMINI | Senior Software Engineer | INDIA (_October 2022 - August 2023_)
-<p style='text-align: justify;'> - Collaborated with development team to resolve 50+ tickets on management platform to modify and 
+-- Collaborated with development team to resolve 50+ tickets on management platform to modify and 
   maintain client websites and improving customer satisfaction by 20%. <br>
  - Optimized functions for user-friendly interfaces and seamless functionality to enhance the overall user 
   experience, resource management and contributed to a 25% reduction in application load times.</p>
 
 ### CAPGEMINI | SeniorAnalyst Intern | INDIA (_March 2022 - May 2022_)
-<p style='text-align: justify;'> - Participated in design discussions and propose solutions that effectively balanced user requirements with 
+- Participated in design discussions and propose solutions that effectively balanced user requirements with 
 technical considerations, resulting in enhanced product functionality.<br>
 - Worked on Java full-stack applications to deliver robust solutions leveraging cutting-edge frameworks that 
-streamlined processes and improved user experiences.</p>
+streamlined processes and improved user experiences.
 
 ### ACM VNRVJIET Technical Team Member | INDIA (_2018 - 2022_)
  - Actively organized events, leadership sessions, and technical workshops through event planning and management.
@@ -29,9 +29,9 @@ streamlined processes and improved user experiences.</p>
  - Contributed to education outreach initiatives, promoting the importance of technology and computer science.
 
 ### INVSIBLE STRING | Volunteer | INDIA (_2022 - present_)
--Collaborated with the NGO team to develop and implement programs addressing the unique needs of underprivilaged groups.
--Led workshops and awareness sessions aimed at fostering the importance of education and skill development.
--Organized events to provide emotional support, educational resources, and mentorship opportunities
+- Collaborated with the NGO team to develop and implement programs addressing the unique needs of underprivilaged groups.
+- Led workshops and awareness sessions aimed at fostering the importance of education and skill development.
+- Organized events to provide emotional support, educational resources, and mentorship opportunities
 
 ## TECHNICAL SKILLS
 **Languages**: Python, C++, Java, HTML, CSS, JavaScript  <br>
