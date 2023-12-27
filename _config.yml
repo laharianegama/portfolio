@@ -2,11 +2,22 @@ title: Anegama Lahari
 description: My Portfolio
 url: "https://laharianegama.github.io/portfolio/"
 theme: jekyll-theme-minimal
+logo: headshot1.jpg
+email: youremail@example.com
+
+social:
+  - icon: fab fa-linkedin
+    text: LinkedIn
+    url: https://www.linkedin.com/in/lahari-anegama-a9a583192/
+  - icon: fab fa-github
+    text: GitHub
+    url: https://github.com/laharianegama
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
+  
 
 defaults:
   - scope:
