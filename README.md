@@ -21,23 +21,28 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 - Worked on Java full-stack applications to deliver robust solutions leveraging cutting-edge frameworks that streamlined processes and improved user experiences.
 
 ### ACM VNRVJIET Technical Team Member | INDIA (_2018 - 2022_)
- - Actively organized events, leadership sessions, and technical workshops through event planning and management.
+ - Actively organized 15+ events, leadership sessions, and technical workshops through event planning, communication and management.
  - Fostered a collaborative and growth-oriented environment within the technical team.
  - Contributed to education outreach initiatives, promoting the importance of technology and computer science.
 
 ### INVSIBLE STRING | Volunteer | INDIA (_2022 - present_)
 - Collaborated with the NGO team to develop and implement programs addressing the unique needs of underprivilaged groups.
 - Led workshops and awareness sessions aimed at fostering the importance of education and skill development.
-- Organized events to provide emotional support, educational resources, and mentorship opportunities
+- Organized events to provide emotional support, educational resources, and mentorship to over 500 rural underprivileged groups.
 
 ## TECHNICAL SKILLS
-**Languages**: Python, C++, Java, HTML, CSS, JavaScript  <br>
-**IT Concepts**: Data Structures & Algorithms, OOPS <br>
+**Programming**: Python, C++, Java, HTML, CSS, JavaScript  <br>
+**IT Concepts/Technologies**: Data Structures & Algorithms, Machine Learning, Git, Web Development, RESTful APIs, Git, Postman OOPS <br>
 **Databases**: SQL, Firebase (NoSQL), PostgreSQL <br>
-**Technologies**: Machine Learning, Git, Web Development <br>
-**Framework**: React JS, Spring, Spring Boot 
+**Framework**: React JS, Spring, Spring Boot, NodeJS, ExpressJS
 
 ## PROJECTS
+### SnapSpots:
+[Github](https://github.com/laharianegama/MERNAPPLICATION)
+- Spearheaded front-end development in React.js, crafting functional components and utilizing hooks for streamlined state management.
+- Developed a MERN stack application by creating a robust Node.js and Express.js RESTful API, implemented code splitting to reduce initial load time by 3/4, and ensuring scalable deployment on Heroku.
+-	Engineered end-to-end user authentication: executed secure password hashing, backend JWT token generation, protected 95% routes with authentication middleware, token integration in React, and customized authentication hook, ensuring robust security measures for seamless user login.
+
 ### Friend Finder Application:
 [Github](https://github.com/laharianegama/friendfinder)
 - Developed an online application with Java EE Standardized Development Model.
