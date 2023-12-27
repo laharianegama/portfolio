@@ -14,7 +14,7 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 ### CAPGEMINI | Senior Software Engineer | INDIA (_October 2022 - August 2023_)
  - Collaborated with development team to resolve 50+ tickets on management platform to modify and maintain client websites and improving customer satisfaction by 20%
  - Optimized functions for user-friendly interfaces and seamless functionality to enhance the overall user experience, resource management and contributed to a 25% 
- reduction in application load times.</p>
+ reduction in application load times.
 
 ### CAPGEMINI | SeniorAnalyst Intern | INDIA (_March 2022 - May 2022_)
 - Participated in design discussions and propose solutions that effectively balanced user requirements with technical considerations, resulting in enhanced product functionality
