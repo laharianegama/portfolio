@@ -2,4 +2,34 @@ title: Anegama Lahari
 description: My Portfolio
 url: "https://laharianegama.github.io/portfolio/"
 theme: jekyll-theme-minimal
-logo: headshot1.jpg
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: headshot1.jpg
+
+collections:
+  projects:
+    output: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+include:
+  - _pages
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
