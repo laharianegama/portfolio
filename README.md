@@ -56,6 +56,13 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 - Employed Natural Language Processing techniques, including tf-idf, along with machine learning algorithms to effectively process the dataset for sentiment 
   analysis.
 
+## PUBLICATIONS
+### AI ChatBot:
+- AI Based Chatbot for Hospital Management IEEE publication in the 2022 3rd International Conference on Computing, Analytics and Networks (ICAN). eCF Paper Id:ICAN2022-85. LINK
+- Developed and seamlessly integrated an AI chatbot into a Flask-based hospital website, improving user navigation and access to a range of healthcare features.
+- Utilized deep learning frameworks to design and train neural networks, implementing regularization techniques such as dropout to enhance model robustness. Optimized the model using Stochastic Gradient Descent (SGD) with Nesterov acceleration, fine-tuning hyperparameters for efficient convergence during training. 
+
+
 
 
 
