@@ -12,9 +12,9 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 
 ## WORK EXPERIENCE
 ### CAPGEMINI | Senior Software Engineer | INDIA (_October 2022 - August 2023_)
- - Collaborated with development team to resolve 50+ tickets on management platform to modify and maintain client websites and improving customer satisfaction by 20%
- - Optimized functions for user-friendly interfaces and seamless functionality to enhance the overall user experience, resource management and contributed to a 25% 
- reduction in application load times.
+ - Led website modification initiatives, collaborating with the cross-functional development team to enhance client sites and elevate customer satisfaction by 20%. 
+ - Optimized functions for user-friendly interfaces and seamless functionality to enhance the overall user experience, resource management and contributed to a 25% reduction in
+   application load times.
 
 ### CAPGEMINI | SeniorAnalyst Intern | INDIA (_March 2022 - May 2022_)
 - Participated in design discussions and propose solutions that effectively balanced user requirements with technical considerations, resulting in enhanced product functionality
@@ -36,6 +36,12 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 **Databases**: SQL, Firebase (NoSQL), PostgreSQL <br>
 **Framework**: React JS, Spring, Spring Boot, NodeJS, ExpressJS
 
+## PUBLICATIONS
+### AI ChatBot:
+- AI Based Chatbot for Hospital Management IEEE publication in the 2022 3rd International Conference on Computing, Analytics and Networks (ICAN). eCF Paper Id:ICAN2022-85. LINK
+- Developed and seamlessly integrated an AI chatbot into a Flask-based hospital website, improving user navigation and access to a range of healthcare features.
+- Utilized deep learning frameworks to design and train neural networks, implementing regularization techniques such as dropout to enhance model robustness. Optimized the model using Stochastic Gradient Descent (SGD) with Nesterov acceleration, fine-tuning hyperparameters for efficient convergence during training. 
+
 ## PROJECTS
 ### SnapSpots:
 [Github](https://github.com/laharianegama/MERNAPPLICATION)
@@ -53,14 +59,8 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 [Github](https://github.com/laharianegama/Sentimental-Analysis)
 - Developed a machine learning model to comprehend polarity of sentiment (Negative, Neutral or Positive)  on trending topics, enabling comprehensive public opinion understanding.
 - Implemented a Python bot to use Twitter API client to retrieve and store data from Twitter API for efficient processing and analysis.
-- Employed Natural Language Processing techniques, including tf-idf, along with machine learning algorithms to effectively process the dataset for sentiment 
-  analysis.
+- Employed Natural Language Processing techniques, including tf-idf, along with machine learning algorithms to effectively process and analyze sentiment in a substantial dataset of 1 million tweets from Twitter. 
 
-## PUBLICATIONS
-### AI ChatBot:
-- AI Based Chatbot for Hospital Management IEEE publication in the 2022 3rd International Conference on Computing, Analytics and Networks (ICAN). eCF Paper Id:ICAN2022-85. LINK
-- Developed and seamlessly integrated an AI chatbot into a Flask-based hospital website, improving user navigation and access to a range of healthcare features.
-- Utilized deep learning frameworks to design and train neural networks, implementing regularization techniques such as dropout to enhance model robustness. Optimized the model using Stochastic Gradient Descent (SGD) with Nesterov acceleration, fine-tuning hyperparameters for efficient convergence during training. 
 
 
 
