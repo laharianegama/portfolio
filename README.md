@@ -61,7 +61,10 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 - Implemented a Python bot to use Twitter API client to retrieve and store data from Twitter API for efficient processing and analysis.
 - Employed Natural Language Processing techniques, including tf-idf, along with machine learning algorithms to effectively process and analyze sentiment in a substantial dataset of 1 million tweets from Twitter. 
 
-
+## LEADERSHIP AND ACHIEVEMENTS 
+- Founder of "Beginnersity" group, an EdTech startup, reached over 1,000 students providing online computer fundamentals amidst the pandemic, with 95% positive feedback on curriculum quality.
+- Technical Team Member for the ACM VNRVJIET, organized 15+ events, hackathons, and workshops.
+- Volunteer at "Invisible String" NGO, offering educational support to over 500 rural underprivileged groups. 
 
 
 
