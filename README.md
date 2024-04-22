@@ -7,18 +7,17 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 
 
 ## EDUCATION
- - Master of Science, Computer Science  | **University of Houston** (_August 2023 - Present_)			       		
+ - Master of Science, Computer Science  | **University of Houston** (_August 2023 - May 2025_)			       		
  - Bachelor of Technology, Information Technology	| **VNR Vignana Jyothi Institute of Engineering and Technology** (_2018 - 2022_)
 
 ## WORK EXPERIENCE
 ### CAPGEMINI | Senior Software Engineer | INDIA (_October 2022 - August 2023_)
  - Led website modification initiatives, collaborating with the cross-functional development team to enhance client sites and elevate customer satisfaction by 20%. 
- - Optimized functions for user-friendly interfaces and seamless functionality to enhance the overall user experience, resource management and contributed to a 25% reduction in
-   application load times.
+ - Optimized the code for user-friendly interfaces, resulting in a 25% reduction in application load times, contributing to improved performance and overall user experience.
 
 ### CAPGEMINI | SeniorAnalyst Intern | INDIA (_March 2022 - May 2022_)
-- Participated in design discussions and propose solutions that effectively balanced user requirements with technical considerations, resulting in enhanced product functionality
-- Worked on Java full-stack applications to deliver robust solutions leveraging cutting-edge frameworks that streamlined processes and improved user experiences.
+- Actively participated in design discussions, proposing solutions that effectively balanced user requirements and technical considerations, leading to enhanced product functionality.
+- Shadow-developed Java full-stack applications, collaborating with the team to leverage cutting-edge frameworks and deliver robust solutions that streamlined processes.
 
 ### ACM VNRVJIET Technical Team Member | INDIA (_2018 - 2022_)
  - Actively organized 15+ events, leadership sessions, and technical workshops through event planning, communication and management.
@@ -32,7 +31,7 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 
 ## TECHNICAL SKILLS
 **Programming**: Python, C++, Java, HTML, CSS, JavaScript  <br>
-**IT Concepts/Technologies**: Data Structures & Algorithms, Machine Learning, Git, Web Development, RESTful APIs, Git, Postman OOPS <br>
+**IT Concepts/Technologies**: Data Structures & Algorithms, Machine Learning, Web Development,OOPS, Cloud Technologies, RESTful APIs, Git, Postman <br>
 **Databases**: SQL, Firebase (NoSQL), PostgreSQL <br>
 **Framework**: React JS, Spring, Spring Boot, NodeJS, ExpressJS
 
@@ -45,14 +44,13 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 ## PROJECTS
 ### SnapSpots:
 [Github](https://github.com/laharianegama/MERNAPPLICATION)
-- Spearheaded front-end development in React.js, crafting functional components and utilizing hooks for streamlined state management.
-- Developed a MERN stack application by creating a robust Node.js and Express.js RESTful API, implemented code splitting to reduce initial load time by 3/4, and ensuring scalable deployment on Heroku.
--	Engineered end-to-end user authentication: executed secure password hashing, backend JWT token generation, protected 95% routes with authentication middleware, token integration in React, and customized authentication hook, ensuring robust security measures for seamless user login.
+- Spearheaded the development of a MERN stack application in NodeJS, MongoDB Atlas cloud database and React.js by crafting functional components and utilizing hooks for streamlined state management.
+- Designed a robust RESTful API using Node.js and Express.js, implemented code splitting to reduce initial load time by 3/4. Enriched Input accuracy by using Express validator.
+-	Engineered robust security measures for seamless user authentication: executed secure password hashing, backend JWT token generation and protected 95% routes with authentication middleware. Ensured scalable deployment of standalone REST API on Heroku and React SPA on Firebase hosting.
 
 ### Friend Finder Application:
 [Github](https://github.com/laharianegama/friendfinder)
-- Developed an online application with Java EE Standardized Development Model.
-- Employed Spring Boot, Rest controller, JPA Hibernate, and Spring Data JPA for robust back-end development, ensuring efficient repository support.
+- Developed an application with Java EE Standardized Development Model by employing Spring Boot, Rest controller, JPA Hibernate, and Spring Data JPA for robust back-end development, ensuring efficient repository support. Achieved 40% code reuse by implementing standardized development patterns.
 - Utilized ReactJS for dynamic and interactive front-end design, complemented by PostgreSQL for reliable database management.
 
 ### Twitter Sentimental Analysis:
