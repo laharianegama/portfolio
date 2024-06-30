@@ -63,16 +63,16 @@ database management.<br>
 
 ## PROJECTS
 ### Full Stack - SnapSpots:
-<p align="justify">
 [Github](https://github.com/laharianegama/MERNAPPLICATION)
+<p align="justify">
 - Spearheaded the development of a MERN stack application in NodeJS, MongoDB Atlas cloud database and React.js by crafting functional components and utilizing hooks for streamlined state management.<br>
 - Designed a robust RESTful API using Node.js and Express.js, implemented code splitting to reduce initial load time by 3/4. Enriched Input accuracy by using Express validator.<br>
 -	Engineered robust security measures for seamless user authentication: executed secure password hashing, backend JWT token generation and protected 95% routes with authentication middleware. Ensured scalable deployment of standalone REST API on Heroku and React SPA on Firebase hosting.<br>
 </p>
 
 ### Friend Finder Application:
-<p align="justify">
 [Github](https://github.com/laharianegama/friendfinder)
+<p align="justify">
 - Developed an application with Java EE Standardized Development Model by employing Spring Boot, Rest controller, JPA Hibernate, and Spring Data JPA for robust back-end development, ensuring efficient repository support. Achieved 40% code reuse by implementing standardized development patterns.<br>
 - Utilized ReactJS for dynamic and interactive front-end design, complemented by PostgreSQL for reliable database management.<br>
 </p>
