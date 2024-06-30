@@ -12,12 +12,28 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 
 ## WORK EXPERIENCE
 ### CAPGEMINI | Senior Software Engineer | INDIA (_October 2022 - August 2023_)
- - Led website modification initiatives, collaborating with the cross-functional development team to enhance client sites and elevate customer satisfaction by 20%. 
- - Optimized the code for user-friendly interfaces, resulting in a 25% reduction in application load times, contributing to improved performance and overall user experience.
+ - Engineered modular ReactJS web components, reducing code redundancy by 35%.
+ - Collaborated with a cross-functional team and led initiatives to refine website responsiveness and performance,
+elevating customer satisfaction metrics by 18% in a quarter.
+ - Optimized code for user-friendly interfaces, reducing application load times by 2000ms, improving performance,
+reducing reported issues by 10%, and enhancing overall user experience.
 
 ### CAPGEMINI | SeniorAnalyst Intern | INDIA (_March 2022 - May 2022_)
-- Actively participated in design discussions, proposing solutions that effectively balanced user requirements and technical considerations, leading to enhanced product functionality.
-- Shadow-developed Java full-stack applications, collaborating with the team to leverage cutting-edge frameworks and deliver robust solutions that streamlined processes.
+- Contributed to development of an application with Java EE Standardized Development Model by employing Spring
+Boot, Rest controller, JPA Hibernate, and Spring Data JPA for robust back-end development, ensuring efficient
+repository support reducing development time by approximately 25%.
+- Designed and implemented 7 JPA entities with detailed object-relational mappings and constraints using
+annotations, optimizing database schema and enhancing data integrity.
+- Utilized ReactJS for responsive and interactive front-end design, complemented by PostgreSQL for reliable
+database management.
+
+### VNRVJIET | Machine Learning Research Assistant | INDIA (_January 2022 - May 2022_)
+- AI Based Chatbot for Hospital Management IEEE publication in the 2022 3rd International Conference on Computing, Analytics and Networks (ICAN). eCF Paper Id:ICAN2022-85.
+- Developed and seamlessly integrated an AI chatbot into a Flask-based hospital website, improving user navigation and access to a range of healthcare features.
+- Utilized deep learning frameworks to design and train neural networks, implementing regularization techniques such as dropout to enhance model robustness. Optimized the model using Stochastic Gradient Descent (SGD) with Nesterov acceleration, fine-tuning hyperparameters for efficient convergence during training.
+- Developed a machine learning model to comprehend polarity of sentiment (Negative, Neutral or Positive)  on trending topics, enabling comprehensive public opinion understanding.
+- Implemented a Python bot to use Twitter API client to retrieve and store data from Twitter API for efficient processing and analysis.
+- Employed Natural Language Processing techniques, including tf-idf, along with machine learning algorithms to effectively process and analyze sentiment in a substantial dataset of 1 million tweets from Twitter.
 
 ### ACM VNRVJIET Technical Team Member | INDIA (_2018 - 2022_)
  - Actively organized 15+ events, leadership sessions, and technical workshops through event planning, communication and management.
@@ -30,19 +46,13 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 - Organized events to provide emotional support, educational resources, and mentorship to over 500 rural underprivileged groups.
 
 ## TECHNICAL SKILLS
-**Programming**: Python, C++, Java, HTML, CSS, JavaScript  <br>
-**IT Concepts/Technologies**: Data Structures & Algorithms, Machine Learning, Web Development,OOPS, Cloud Technologies, RESTful APIs, Git, Postman <br>
-**Databases**: SQL, Firebase (NoSQL), PostgreSQL <br>
-**Framework**: React JS, Spring, Spring Boot, NodeJS, ExpressJS
-
-## PUBLICATIONS
-### AI ChatBot:
-- AI Based Chatbot for Hospital Management IEEE publication in the 2022 3rd International Conference on Computing, Analytics and Networks (ICAN). eCF Paper Id:ICAN2022-85. LINK
-- Developed and seamlessly integrated an AI chatbot into a Flask-based hospital website, improving user navigation and access to a range of healthcare features.
-- Utilized deep learning frameworks to design and train neural networks, implementing regularization techniques such as dropout to enhance model robustness. Optimized the model using Stochastic Gradient Descent (SGD) with Nesterov acceleration, fine-tuning hyperparameters for efficient convergence during training. 
+**Programming/Tools**:  Python, C, C++, Java, HTML, CSS, JavaScript, R, Data Structures & Algorithms, Postman, Github <br>
+**Concepts/Technologies**: Web Development, RESTful APIs, Machine Learning, AWS, CI/CD, Unit testing, OOPS <br>
+**Frameworks/Databases**:  React JS, NodeJS, Spring, Spring Boot, ExpressJS, SQL, NoSQL, PostgreSQL, AWS(Glue, s3) <br>
+**Data Science**: Classification, Regression, Machine Learning, Pandas, NumPy, Matplotlib, PyTorch, Scikit-learn, Keras, NLTK<br>
 
 ## PROJECTS
-### SnapSpots:
+### Full Stack - SnapSpots:
 [Github](https://github.com/laharianegama/MERNAPPLICATION)
 - Spearheaded the development of a MERN stack application in NodeJS, MongoDB Atlas cloud database and React.js by crafting functional components and utilizing hooks for streamlined state management.
 - Designed a robust RESTful API using Node.js and Express.js, implemented code splitting to reduce initial load time by 3/4. Enriched Input accuracy by using Express validator.
@@ -53,11 +63,14 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 - Developed an application with Java EE Standardized Development Model by employing Spring Boot, Rest controller, JPA Hibernate, and Spring Data JPA for robust back-end development, ensuring efficient repository support. Achieved 40% code reuse by implementing standardized development patterns.
 - Utilized ReactJS for dynamic and interactive front-end design, complemented by PostgreSQL for reliable database management.
 
-### Twitter Sentimental Analysis:
-[Github](https://github.com/laharianegama/Sentimental-Analysis)
-- Developed a machine learning model to comprehend polarity of sentiment (Negative, Neutral or Positive)  on trending topics, enabling comprehensive public opinion understanding.
-- Implemented a Python bot to use Twitter API client to retrieve and store data from Twitter API for efficient processing and analysis.
-- Employed Natural Language Processing techniques, including tf-idf, along with machine learning algorithms to effectively process and analyze sentiment in a substantial dataset of 1 million tweets from Twitter. 
+### Real-Time Data Pipeline for ETL And Analytics:
+- Reduced data processing time by 50% and enabled real-time analytics by automating a cloud-based ETL pipeline using
+AWS Lambda and CloudWatch Events.
+- Enhanced data integrity and quality by automating data cleansing and transformation using Lambda functions
+triggered by S3 events, ensuring daily updates for actionable insights.
+- Achieved 99.9% data accuracy and 24/7 real-time data ingestion using Snowflake and Snowpipes, with optimized
+schemas and stages for faster data retrieval.
+- Created interactive Power BI dashboards that enhanced data visibility and facilitated informed data visualizations.
 
 ## LEADERSHIP AND ACHIEVEMENTS 
 - Founder of "Beginnersity" group, an EdTech startup, reached over 1,000 students providing online computer fundamentals amidst the pandemic, with 95% positive feedback on curriculum quality.
