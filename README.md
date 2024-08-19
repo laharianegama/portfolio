@@ -8,16 +8,29 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 
 ## EDUCATION
  - Master of Science, Computer Science  | **University of Houston** (_August 2023 - May 2025_)			       		
- - Bachelor of Technology, Information Technology	| **VNR Vignana Jyothi Institute of Engineering and Technology** (_2018 - 2022_)
+ - Bachelor of Technology, Information Technology	| **JNTUH** (_2018 - 2022_)
 
 ## WORK EXPERIENCE
+### UNIVERSITY OF HOUSTON | Graduate Instructional Assistant | USA (_June 2024 - Present_)
+<p align="justify">
+ - Devised and deployed a modular deep learning pipeline for disease classification from CT scan Images using VGG16
+Neural Network, achieving 97.3% training accuracy and 95.7% validation accuracy, while optimizing models through
+MLflow comparisons. Managed the ML lifecycle with DVC, ensuring reproducibility and version control, and
+enhancing project reliability across multiple iterations.<br>
+ - Established a fully automated CI/CD pipeline with Docker, AWS (EC2, ECR), and GitHub Actions, cutting manual
+deployment time by 40% and ensuring seamless continuous integration and delivery through self-hosted runners.<br>
+ - Integrated 3 Flask-based RESTful APIs for real-time disease prediction from user-uploaded images, boosting user
+engagement and enhancing accessibility to advanced AI-driven diagnostics.<br>
+</p>
+
 ### CAPGEMINI | Senior Software Engineer | INDIA (_October 2022 - August 2023_)
 <p align="justify">
- - Engineered modular ReactJS web components, reducing code redundancy by 35%.<br>
- - Collaborated with a cross-functional team and led initiatives to refine website responsiveness and performance,
-elevating customer satisfaction metrics by 18% in a quarter.<br>
- - Optimized code for user-friendly interfaces, reducing application load times by 2000ms, improving performance,
-reducing reported issues by 10%, and enhancing overall user experience.<br>
+ - Engineered and integrated modular ReactJS web components in collaboration with cross-functional teams, reducing
+code redundancy by 30%, accelerating new UI project onboarding by 40% and improving maintainability.<br>
+ - Enhanced performance by implementing advanced optimization techniques, including caching and dynamic resource
+loading strategies, resulting in a 2000ms reduction in application load times and a 10% decrease in reported issues.<br>
+ - Developed 60+ comprehensive unit tests using industry-standard frameworks such as JUnit and Mockito, elevating
+code quality and reliability and guaranteeing the functionality of individual modules.<br>
 </p>
 
 ### CAPGEMINI | SeniorAnalyst Intern | INDIA (_March 2022 - May 2022_)
@@ -58,7 +71,8 @@ database management.<br>
 ## TECHNICAL SKILLS
 **Programming/Tools**:  Python, C, C++, Java, HTML, CSS, JavaScript, R, Data Structures & Algorithms, Postman, Github <br>
 **Concepts/Technologies**: Web Development, RESTful APIs, Machine Learning, AWS, CI/CD, Unit testing, OOPS <br>
-**Frameworks/Databases**:  React JS, NodeJS, Spring, Spring Boot, ExpressJS, SQL, NoSQL, PostgreSQL, AWS(Glue, s3) <br>
+**Frameworks/Databases**:  React JS, NodeJS, Spring, Spring Boot, ExpressJS, Power BI <br>
+**Databases/ Cloud & DevOps**: SQL, NoSQL, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, Git, Agile Methodologies<br>
 **Data Science**: Classification, Regression, Machine Learning, Pandas, NumPy, Matplotlib, PyTorch, Scikit-learn, Keras, NLTK<br>
 
 ## PROJECTS
