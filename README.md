@@ -1,7 +1,7 @@
 anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-anegama-a9a583192/) | [Github](https://github.com/laharianegama)
 
 ## ABOUT ME
-<p style='text-align: justify;'> Hello there!👋 I'm a computer science graduate student from the University of Houston, armed with a Bachelors degree in Information Technology. I love solving problems and writing code. I've spent some quality time as a Senior Software Engineer at Capgemini, where I've navigated the realms of software development with zeal and finesse.  My professional journey spans a diverse spectrum, having served as a software engineer, educational entrepreneur, and dedicated volunteer. This multifaceted background underscores my unwavering dedication and passion for both technology and education.</p>
+<p style='text-align: justify;'> Hello there!👋 I'm a computer science graduate student from the University of Houston, armed with a Bachelors degree in Information Technology. I love solving problems and writing code. I've spent some quality time as a Software Engineer at Capgemini, Hilton and UH where I've navigated the realms of software development with zeal and finesse.  My professional journey spans a diverse spectrum, having served as a software engineer, educational entrepreneur, and dedicated volunteer. This multifaceted background underscores my unwavering dedication and passion for both technology and education.</p>
 
 <p style='text-align: justify;'> Currently on the lookout for exciting opportunities, I'm eager to collaborate with a team where creativity meets functionality. Let's build something wonderful together while learning new things along the way! </p>
 
@@ -13,17 +13,35 @@ anegamalahari2412@gmail.com | [LinkedIn](https://www.linkedin.com/in/lahari-aneg
 ## WORK EXPERIENCE
 ### UNIVERSITY OF HOUSTON | Graduate Instructional Assistant | USA (_June 2024 - Present_)
 <p align="justify">
- - Devised and deployed a modular deep learning pipeline for disease classification from CT scan Images using VGG16
-Neural Network, achieving 97.3% training accuracy and 95.7% validation accuracy, while optimizing models through
-MLflow comparisons. Managed the ML lifecycle with DVC, ensuring reproducibility and version control, and
-enhancing project reliability across multiple iterations.<br>
- - Established a fully automated CI/CD pipeline with Docker, AWS (EC2, ECR), and GitHub Actions, cutting manual
-deployment time by 40% and ensuring seamless continuous integration and delivery through self-hosted runners.<br>
- - Integrated 3 Flask-based RESTful APIs for real-time disease prediction from user-uploaded images, boosting user
-engagement and enhancing accessibility to advanced AI-driven diagnostics.<br>
+ -Conducted a comparative research analysis on 100,000+ sentence pairs using BERT, LLaMA, and CLIP, exposing key differences in
+embedding spaces and enhancing insights into nuanced textual semantics.<br>
+ -Developed a Multi agent Text-to-SQL system for the department utilizing LangChain, LangGraph, MongoDB, Python, and FastAPI
+to break silos across 3 separate databases, enabling real-time queries and visual analytics.<br>
+ -Improved operational efficiency by reducing average query generation time by 90% and significantly boosting team productivity
+and data-driven insights. Achieved 60% exact match and 85% execution accuracy.<br>
 </p>
 
-### CAPGEMINI | Senior Software Engineer | INDIA (_October 2022 - August 2023_)
+### CONRAD.N.HILTON | Web Developer Intern | USA, TEXAS (_June 2024 - August 2024_)
+<p align="justify">
+- Spearheaded end-to-end digital transformation for prestigious hospitality institution, implementing mobile responsive design
+architecture and SEO optimization that drove 45% increase in organic visibility.<br>
+- Engineered and built an entire automated faculty onboarding system, reducing administrative processing time by 80%.<br>
+</p>
+
+### CAPGEMINI | Software Engineer | INDIA (_May 2022 - August 2023_)
+<p align="justify">
+ - Implemented and Optimized backend microservices using AWS, Rest APIs (Maven, SpringBoot, JPA, Hibernate, SQL) ensuring
+consistency and scalability for critical business processes in an insurance system.<br>
+- Delivered high-performance RestAPI, optimizing data-fetch operations by 200ms through efficient implementation of filtering,
+pagination, and sorting at the backend.<br>
+- Architected an event-driven microservices workflow using Kafka, enabling real-time policy and claims updates across distributed
+systems ensuring consistency and cutting processing delays by 30%.<br>
+- Optimized UI interactions for data-heavy components by 300ms through targeted React memorization, enhancing UX.<br>
+- Implemented Redis caching for high read loads reducing API calls by 60% and lowering infrastructure costs.<br>
+- Established CI/CD pipelines (Jenkins/GitHub Actions), boosting test coverage by 40% and accelerating release cycles.<br>
+</p>
+
+### CAPGEMINI | Senior Analyst Intern | INDIA (_March 2022 - May 2022_)
 <p align="justify">
  - Engineered and integrated modular ReactJS web components in collaboration with cross-functional teams, reducing
 code redundancy by 30%, accelerating new UI project onboarding by 40% and improving maintainability.<br>
@@ -31,17 +49,6 @@ code redundancy by 30%, accelerating new UI project onboarding by 40% and improv
 loading strategies, resulting in a 2000ms reduction in application load times and a 10% decrease in reported issues.<br>
  - Developed 60+ comprehensive unit tests using industry-standard frameworks such as JUnit and Mockito, elevating
 code quality and reliability and guaranteeing the functionality of individual modules.<br>
-</p>
-
-### CAPGEMINI | SeniorAnalyst Intern | INDIA (_March 2022 - May 2022_)
-<p align="justify">
-- Contributed to development of an application with Java EE Standardized Development Model by employing Spring
-Boot, Rest controller, JPA Hibernate, and Spring Data JPA for robust back-end development, ensuring efficient
-repository support reducing development time by approximately 25%.<br>
-- Designed and implemented 7 JPA entities with detailed object-relational mappings and constraints using
-annotations, optimizing database schema and enhancing data integrity.<br>
-- Utilized ReactJS for responsive and interactive front-end design, complemented by PostgreSQL for reliable
-database management.<br>
 </p>
 
 ### VNRVJIET | Machine Learning Research Assistant | INDIA (_January 2022 - May 2022_)
@@ -74,8 +81,28 @@ database management.<br>
 **Frameworks/Databases**:  React JS, NodeJS, Spring, Spring Boot, ExpressJS, Power BI <br>
 **Databases/ Cloud & DevOps**: SQL, NoSQL, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, Git, Agile Methodologies<br>
 **Data Science**: Classification, Regression, Machine Learning, Pandas, NumPy, Matplotlib, PyTorch, Scikit-learn, Keras, NLTK<br>
+**Generative AI**: Foundational Models, Prompt Engineering, Fine-tuning , RAG, Langchain,LangGraph LlamaIndex,LangSmith,CrewAI,Azure OpenAI<br>
+
 
 ## PROJECTS
+### ApplyForge- Chrome Extension:
+[Github](https://github.com/laharianegama/Application-Tracker)
+<p align="justify">
+- Built and published a Google Chrome extension, ApplyForge to streamline job application tracking with features like tracking
+daily goals, streak monitoring, and real-time progress visualizations, enhancing user motivation and productivity.<br>
+- Handled cross-platform data reliability, synchronization, offline support and conflict resolution using Chrome Storage Sync API
+while managing 7 key metrics with automated resets and achieving data persistence.<br>
+ </p>
+
+ ### Real-time Financial Transactions Data Streaming Pipeline:
+ [Github](https://github.com/laharianegama/Kafka-Pipeline)
+ <p align="justify">
+- Architected and implemented a high-throughput transaction processing pipeline using Apache Kafka, Spark, and Docker,
+successfully handling 10,000+ transactions per second with automated fraud detection for high-risk transactions. Enabled realtime data ingestion, transformation, and analytics.<br>
+- Established monitoring infrastructure using Prometheus and Grafana, creating custom dashboards and alerts to proactively
+identify performance bottlenecks and ensure system reliability.<br>
+ </p>
+ 
 ### Full Stack - SnapSpots:
 [Github](https://github.com/laharianegama/MERNAPPLICATION)
 <p align="justify">
